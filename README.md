@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # lab-tableau
 
-    Tacleau Dashboard: https://public.tableau.com/app/profile/claudio.do.prado/viz/tableau-lab_17466115089270/CustomerDataInsights?publish=yes
+https://public.tableau.com/app/profile/claudio.do.prado/viz/tableau-lab_17466115089270/CustomerDataInsights?publish=yes
 
 # Customer Data Visualization Dashboard
 
